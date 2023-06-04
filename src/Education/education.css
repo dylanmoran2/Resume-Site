@@ -1,0 +1,76 @@
+.Education {
+  letter-spacing: 0.2vw;
+  text-align: center;
+}
+
+.Education h2 {
+  font-size: 3em;
+  padding: 5vh;
+  margin-bottom: 10vh;
+  border-bottom: solid 1px black;
+}
+
+.Education h2,
+h4,
+h5 {
+  text-align: center;
+  margin: 0;
+}
+
+.Education img {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.sub-title {
+  padding-top: 5vh;
+  padding-bottom: 3vh;
+  border-bottom: 1px solid black;
+}
+
+.card {
+  align-items: center;
+  padding: 2vw;
+  line-height: 5vh;
+  border: solid 3px white;
+  background-color: white;
+  color: #282c34;
+}
+
+.content {
+  padding: 5vh;
+}
+
+.classes {
+  padding-top: 1em;
+}
+
+.classes ul {
+}
+
+.icon {
+  color: #282c34;
+  margin: 10px;
+}
+
+.centered-list ul {
+  margin: 0;
+  padding: 0;
+}
+
+.centered-list ul,
+.centered-list ol {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.centered {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.card-title {
+  padding-bottom: 1em;
+  border-bottom: solid 1px black;
+}

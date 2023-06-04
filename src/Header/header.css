@@ -1,0 +1,94 @@
+.header-container {
+  background-color: #282c34;
+  min-height: 20vh;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+}
+.name-container {
+  display: flex;
+  justify-content: center;
+}
+
+.name {
+  margin-top: 4em;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+}
+
+header h3 {
+  color: rgb(208, 208, 208);
+  font-size: 0.8em;
+}
+
+.dylan {
+  padding-top: 2em;
+  max-height: 40vh;
+  border-radius: 70px;
+  width: auto;
+}
+
+.socials {
+  height: 20vh;
+}
+
+.space-above {
+  padding-top: 2.5em;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+
+.twitter :hover {
+  color: rgb(80, 188, 255);
+}
+
+.git :hover {
+  color: #9112b4;
+}
+
+.insta :hover {
+  color: rgb(240, 18, 203);
+}
+
+.linked :hover {
+  color: #528af3;
+}
+
+.linked-bg :hover {
+  background-color: white;
+}
+
+.icon-wrapper {
+  width: 50px; /* Adjust to your preference */
+  height: 50px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+
+  transition: transform 0.3s ease;
+}
+
+.icon-wrapper:hover {
+  transform: scale(1.5);
+}
+
+.resume {
+  transition: transform 0.3s ease;
+}
+
+.resume:hover {
+  transform: scale(1.1);
+}

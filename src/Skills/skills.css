@@ -1,0 +1,36 @@
+.Skills {
+  text-align: center;
+}
+
+.Skills ul {
+  margin: 0;
+  padding: 0;
+}
+
+.Skills li {
+  text-align: center;
+}
+
+.Skills {
+  letter-spacing: 0.2vw;
+}
+
+.Skills h2 {
+  border-bottom: solid 1px black;
+  padding: 2em;
+}
+
+.card {
+  align-items: center;
+  padding: 2vw;
+  line-height: 5vh;
+  border: solid 3px white;
+  background-color: white;
+  color: #282c34;
+}
+
+.sub-title {
+  padding-top: 5vh;
+  padding-bottom: 3vh;
+  border-bottom: 1px solid black;
+}
